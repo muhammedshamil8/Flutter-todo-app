@@ -1,0 +1,58 @@
+# Flutter/Dart specific
+*.iml
+.idea/
+.vscode/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+/.dart_tool/
+/.dart_tool*/
+.dart_tool/**
+.packages
+.pub/
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.log
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/app.framework
+
+# Android specific
+/android/.gradle
+/android/app/.externalNativeBuild
+/android/app/build/
+/android/build/
+/android/gradle/
+/android/key.properties
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/app/libs/flutter.jar
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.lock
+*.lock?
+*.sqlite
+*.log
+*.log.*
+*.log.?
+*.storyboardc/
+*.xccheckout
+*.xcworkspace
+*.podspec
+*.xcuserdatad
+*.xcuserdatad/
+*.xcuserdatad/**
+
+# Environment variables
+.env
